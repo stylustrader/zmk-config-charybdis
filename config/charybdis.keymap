@@ -126,7 +126,7 @@
         };
 
         MEDIA {
-            label = "MEDIA"
+            label = "MEDIA";
             bindings = <
   &none         &none         &none             &none           &none    &none         &none         &none         &none         &none
   &kp LEFT_GUI  &kp LEFT_ALT  &kp LEFT_CONTROL  &kp LEFT_SHIFT  &none    &bt BT_CLR    &none         &none         &none         &bt BT_CLR_ALL
@@ -137,7 +137,7 @@
         };
 
         NUM {
-            label = "NUM"
+            label = "NUM";
             bindings = <
   &kp LEFT_BRACKET  &kp N7        &kp N8        &kp N9        &kp RIGHT_BRACKET    &none  &none           &none             &none         &none
   &kp SEMICOLON     &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp EQUAL            &none  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_GUI
@@ -148,7 +148,7 @@
         };
 
         FUN {
-            label = "FUN"
+            label = "FUN";
             bindings = <
   &kp F12  &kp F7  &kp F8      &kp F9     &kp PRINTSCREEN    &none  &none           &none             &none         &none
   &kp F11  &kp F4  &kp F5      &kp F6     &kp SCROLLLOCK     &none  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_GUI
